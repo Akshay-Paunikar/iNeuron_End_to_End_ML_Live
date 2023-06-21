@@ -7,7 +7,7 @@ catboost
 xgboost
 Flask
 click
-gunicorn
+gunicorn==20.0.4
 itsdangerous
 Jinja2
 MarkupSafe
